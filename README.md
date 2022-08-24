@@ -7,6 +7,8 @@
   <li>npm install uuid</li>
 </ul>
 
+<h3>To run appliction go to terminal and type "npm start"</h3>
+
 
 # Getting Started with Create React App
 
