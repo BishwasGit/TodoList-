@@ -1,8 +1,8 @@
 <h1>READ ME </h1>
 
 <h2>node_modules and dependencies are gitignore</h2>
-
-<ul>USE
+<h3>USE</h3>
+<ul>
   <li>npm install uuid</li>
 </ul>
 
