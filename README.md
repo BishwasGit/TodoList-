@@ -3,6 +3,7 @@
 <h2>node_modules and dependencies are gitignore</h2>
 <h3>USE</h3>
 <ul>
+  <li>npm update</li>
   <li>npm install uuid</li>
 </ul>
 
