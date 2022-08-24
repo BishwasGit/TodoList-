@@ -1,6 +1,11 @@
-#READ ME 
+<h1>READ ME </h1>
 
-#node_modules and dependencies have are gitignore
+<h2>node_modules and dependencies are gitignore</h2>
+
+<ul>USE
+  <li>npm install uuid</li>
+</ul>
+
 
 # Getting Started with Create React App
 
